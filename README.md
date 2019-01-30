@@ -1,2 +1,2 @@
-# Arduino
-Arduino code for different projects.
+# Arduino Code 
+Arduino code for Design Project (Rebal) 
